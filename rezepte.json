@@ -1,0 +1,453 @@
+[
+    {
+        
+        "id": 1, 
+        "name": "Veganes Fruehstueck", 
+        "calories": 400,
+        "meal_type": "Frühstück", 
+        "ingredients": "Haferflocken, Mandelmilch, Banane, Beeren", 
+        "preparation": "Mische alle Zutaten in einer Schüssel.", 
+        "vegetarian_vegan": "vegan" 
+    },
+    {
+        "id": 2,
+        "name": "Vegetarisches Mittagessen",
+        "calories": 600,
+        "meal_type": "Mittagessen",
+        "ingredients": "Quinoa, Gemüse, Feta-Käse",
+        "preparation": "Koche die Quinoa und mische sie mit dem Gemüse und dem Feta-Käse.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 3,
+        "name": "Huehnersalat",
+        "calories": 350,
+        "meal_type": "Mittagessen",
+        "ingredients": "Hühnchen, Salat, Tomaten, Gurken",
+        "preparation": "Mische das Hühnchen mit dem Salat und den Gemüsezutaten.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 4,
+        "name": "Vegane Suppe",
+        "calories": 300,
+        "meal_type": "Abendessen",
+        "ingredients": "Gemüse, Brühe, Gewürze",
+        "preparation": "Koche das Gemüse in der Brühe und füge Gewürze hinzu.",
+        "vegetarian_vegan": "vegan"
+    },
+    {
+        "id": 5,
+        "name": "Pasta Bolognese",
+        "calories": 700,
+        "meal_type": "Abendessen",
+        "ingredients": "Pasta, Hackfleisch, Tomatensauce",
+        "preparation": "Koche die Pasta und füge das Hackfleisch und die Tomatensauce hinzu.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 6,
+        "name": "Vegetarisches Fruehstueck",
+        "calories": 350,
+        "meal_type": "Frühstück",
+        "ingredients": "Eier, Käse, Brot",
+        "preparation": "Bereite die Eier und den Käse vor und serviere mit Brot.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 7,
+        "name": "Gemuese-Curry",
+        "calories": 450,
+        "meal_type": "Abendessen",
+        "ingredients": "Gemischtes Gemuese, Kokosmilch, Currypaste",
+        "preparation": "Koche das Gemuese in der Kokosmilch mit der Currypaste.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 8,
+        "name": "Gebackener Lachs",
+        "calories": 550,
+        "meal_type": "Abendessen",
+        "ingredients": "Lachsfilet, Zitrone, Olivenoel, Kraeuter",
+        "preparation": "Mariniere den Lachs mit Zitrone, Olivenoel und Kraeutern, und backe ihn im Ofen.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 9,
+        "name": "Griechischer Salat",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Gurken, Tomaten, Feta-Kaese, Oliven, Olivenoel",
+        "preparation": "Schneide das Gemuese und den Kaese in Stuecke und betraeufle mit Olivenoel.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 10,
+        "name": "Fruechte-Muesli",
+        "calories": 350,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Haferflocken, Joghurt, Honig, Fruechte",
+        "preparation": "Mische die Haferflocken mit Joghurt, Honig und geschnittenen Fruechten.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 11,
+        "name": "Huehner-Caesar-Salat",
+        "calories": 500,
+        "meal_type": "Mittagessen",
+        "ingredients": "Hähnchenbrust, Römersalat, Croutons, Caesar-Dressing",
+        "preparation": "Grille die Hähnchenbrust und mische sie mit Römersalat, Croutons und Dressing.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 12,
+        "name": "Spaghetti Carbonara",
+        "calories": 600,
+        "meal_type": "Abendessen",
+        "ingredients": "Spaghetti, Speck, Eigelb, Parmesan",
+        "preparation": "Koche die Spaghetti, brate den Speck, mische mit Eigelb und Parmesan.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 13,
+        "name": "Omelett mit Pilzen",
+        "calories": 400,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Eier, Pilze, Zwiebeln, Petersilie",
+        "preparation": "Bereite ein Omelett vor, gefuellt mit Pilzen, Zwiebeln und Petersilie.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 14,
+        "name": "Linsensuppe",
+        "calories": 350,
+        "meal_type": "Mittagessen",
+        "ingredients": "Linsen, Gemuesebruhe, Karotten, Sellerie",
+        "preparation": "Koche die Linsen in Gemuesebruhe mit Karotten und Sellerie.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 15,
+        "name": "Thunfischsalat",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Thunfisch, Salat, Paprika, Olivenöl",
+        "preparation": "Mische den Thunfisch mit Salat, Paprika und Olivenoel.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 16,
+        "name": "Ruehrei mit Spinat",
+        "calories": 350,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Eier, Spinat, Zwiebeln, Knoblauch",
+        "preparation": "Brate den Spinat mit Zwiebeln und Knoblauch an und mische ihn mit den verruehrten Eiern.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 17,
+        "name": "Gemuesepfanne",
+        "calories": 400,
+        "meal_type": "Mittagessen",
+        "ingredients": "Gemüse (Paprika, Zucchini, Aubergine), Olivenöl, Gewürze",
+        "preparation": "Brate das Gemüse in Olivenöl an und würze es nach Belieben.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 18,
+        "name": "Gegrilltes Haehnchen",
+        "calories": 450,
+        "meal_type": "Abendessen",
+        "ingredients": "Hähnchenbrust, Paprika, Zwiebeln, Olivenöl, Gewürze",
+        "preparation": "Mariniere das Hähnchen mit Olivenöl und Gewürzen, grille es und serviere mit gegrilltem Gemüse.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 19,
+        "name": "Avocado-Salat",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Avocado, Tomaten, Mozzarella, Basilikum, Balsamico",
+        "preparation": "Schneide die Zutaten klein, mische sie und beträufle mit Balsamico.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 20,
+        "name": "Hirsebrei mit Fruechten",
+        "calories": 350,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Hirse, Milch, Honig, Früchte",
+        "preparation": "Koche die Hirse in Milch, süße mit Honig und serviere mit geschnittenen Früchten.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 21,
+        "name": "Puten-Gemuese-Wrap",
+        "calories": 400,
+        "meal_type": "Mittagessen",
+        "ingredients": "Putenfleisch, Tortilla, Gemüse, Joghurt-Dressing",
+        "preparation": "Brate das Putenfleisch, belege die Tortilla mit Gemüse und Fleisch, und rolle sie auf.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 22,
+        "name": "Lachsfilet mit Spinat",
+        "calories": 450,
+        "meal_type": "Abendessen",
+        "ingredients": "Lachsfilet, Spinat, Zitrone, Olivenöl, Gewürze",
+        "preparation": "Brate den Lachs und den Spinat, würze sie und serviere mit Zitronenspalten.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 23,
+        "name": "Muesli mit Nuessen und Trockenfruechten",
+        "calories": 300,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Haferflocken, Nüsse, Trockenfrüchte, Milch",
+        "preparation": "Mische die Zutaten und serviere mit Milch.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 24,
+        "name": "Tomatensuppe",
+        "calories": 250,
+        "meal_type": "Mittagessen",
+        "ingredients": "Tomaten, Zwiebeln, Knoblauch, Gemüsebrühe",
+        "preparation": "Koche die Zutaten in Gemüsebrühe, püriere sie und würze nach Belieben.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 25,
+        "name": "Quinoa-Salat",
+        "calories": 350,
+        "meal_type": "Mittagessen",
+        "ingredients": "Quinoa, Gemüse (Paprika, Gurken, Tomaten), Olivenöl, Zitronensaft",
+        "preparation": "Koche den Quinoa, mische mit dem geschnittenen Gemüse, beträufle mit Olivenöl und Zitronensaft.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 26,
+        "name": "Gefuellte Paprika mit Reis und Hackfleisch",
+        "calories": 500,
+        "meal_type": "Abendessen",
+        "ingredients": "Paprika, Reis, Hackfleisch, Tomaten, Zwiebeln",
+        "preparation": "Koche den Reis, brate das Hackfleisch mit Zwiebeln an, fülle die Paprika und backe sie im Ofen.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 27,
+        "name": "Eiweißomelett mit Gemuese",
+        "calories": 350,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Eier, Gemüse (Paprika, Zucchini, Tomaten), Olivenöl",
+        "preparation": "Bereite ein Omelett mit dem geschnittenen Gemüse zu und brate es in Olivenöl.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 28,
+        "name": "Gemuesequiche",
+        "calories": 400,
+        "meal_type": "Mittagessen",
+        "ingredients": "Teig, Gemüse (Brokkoli, Paprika, Zwiebeln), Eier, Sahne",
+        "preparation": "Lege den Teig in eine Backform, belege mit dem geschnittenen Gemüse, gieße die verquirlten Eier und Sahne darüber und backe im Ofen.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 29,
+        "name": "Huehnersuppe",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Hühnerbrust, Karotten, Sellerie, Zwiebeln, Hühnerbrühe",
+        "preparation": "Koche das Hühnerfleisch mit den Gemüsen in der Hühnerbrühe, bis alles gar ist.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 30,
+        "name": "Gegrilltes Gemuese mit Tofu",
+        "calories": 350,
+        "meal_type": "Abendessen",
+        "ingredients": "Gemüse (Zucchini, Paprika, Aubergine), Tofu, Sojasauce, Knoblauch",
+        "preparation": "Mariniere das Gemüse und den Tofu mit Sojasauce und Knoblauch, grille sie und serviere.",
+        "vegetarian_vegan": "vegan"
+    },
+    {
+        "id": 31,
+        "name": "Smoothie mit Beeren",
+        "calories": 200,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Beeren (Himbeeren, Blaubeeren, Erdbeeren), Joghurt, Honig",
+        "preparation": "Mische die Beeren mit Joghurt und Honig und püriere sie zu einem Smoothie.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 32,
+        "name": "Kuerbissuppe",
+        "calories": 250,
+        "meal_type": "Mittagessen",
+        "ingredients": "Kürbis, Zwiebeln, Kartoffeln, Gemüsebrühe",
+        "preparation": "Koche die Zutaten in Gemüsebrühe, püriere sie und würze nach Belieben.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 33,
+        "name": "Pochierte Eier mit Avocado",
+        "calories": 400,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Eier, Avocado, Vollkornbrot, Essig",
+        "preparation": "Pochiere die Eier, serviere sie auf Vollkornbrot mit Avocado und beträufle mit Essig.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 34,
+        "name": "Caprese-Salat",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Tomaten, Mozzarella, Basilikum, Olivenöl, Balsamico",
+        "preparation": "Schneide die Tomaten und den Mozzarella in Scheiben, garniere mit Basilikum, beträufle mit Olivenöl und Balsamico.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 35,
+        "name": "Gebratener Reis mit Gemuese",
+        "calories": 450,
+        "meal_type": "Abendessen",
+        "ingredients": "Reis, Gemüse (Karotten, Erbsen, Paprika), Eier, Sojasauce",
+        "preparation": "Koche den Reis, brate das Gemüse mit den Eiern und füge den Reis und die Sojasauce hinzu.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 36,
+        "name": "Griechischer Joghurt mit Honig und Nuessen",
+        "calories": 300,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Griechischer Joghurt, Honig, Nüsse (Walnüsse, Mandeln)",
+        "preparation": "Serviere den griechischen Joghurt mit Honig und gehackten Nüssen.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 37,
+        "name": "Couscous-Salat",
+        "calories": 350,
+        "meal_type": "Mittagessen",
+        "ingredients": "Couscous, Gemüse (Tomaten, Gurken, Paprika), Olivenöl, Zitrone",
+        "preparation": "Koche den Couscous, mische mit dem geschnittenen Gemüse, beträufle mit Olivenöl und Zitronensaft.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 38,
+        "name": "Rote-Bete-Suppe",
+        "calories": 250,
+        "meal_type": "Mittagessen",
+        "ingredients": "Rote Bete, Zwiebeln, Knoblauch, Gemüsebrühe",
+        "preparation": "Koche die Zutaten in Gemüsebrühe, püriere sie und würze nach Belieben.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 39,
+        "name": "Gebratene Nudeln mit Gemuese",
+        "calories": 400,
+        "meal_type": "Abendessen",
+        "ingredients": "Nudeln, Gemüse (Brokkoli, Karotten, Paprika), Sojasauce",
+        "preparation": "Koche die Nudeln, brate das Gemüse und füge die Nudeln und die Sojasauce hinzu.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 40,
+        "name": "Fruchtiger Joghurt-Smoothie",
+        "calories": 200,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Joghurt, Früchte (Ananas, Mango, Orange), Honig",
+        "preparation": "Mische den Joghurt mit den geschnittenen Früchten und Honig und püriere sie zu einem Smoothie.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 41,
+        "name": "Omelett mit Pilzen",
+        "calories": 350,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Eier, Pilze, Zwiebeln, Knoblauch, Petersilie",
+        "preparation": "Bereite ein Omelett mit den gebratenen Pilzen, Zwiebeln, Knoblauch und Petersilie zu.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 42,
+        "name": "Griechischer Salat",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Gurken, Tomaten, Feta-Käse, Oliven, Zwiebeln, Olivenöl, Oregano",
+        "preparation": "Schneide das Gemüse und den Feta-Käse in Würfel, vermische sie mit den Oliven, Zwiebeln, Olivenöl und Oregano.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 43,
+        "name": "Haehnchen-Curry mit Reis",
+        "calories": 450,
+        "meal_type": "Abendessen",
+        "ingredients": "Hähnchenbrust, Currypaste, Kokosmilch, Gemüse (Paprika, Zwiebeln), Reis",
+        "preparation": "Brate das Hähnchen mit Currypaste an, füge die Kokosmilch und das Gemüse hinzu und serviere mit Reis.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 44,
+        "name": "Pfannkuchen mit Ahornsirup",
+        "calories": 400,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Mehl, Milch, Eier, Butter, Ahornsirup",
+        "preparation": "Bereite den Pfannkuchenteig zu, brate die Pfannkuchen in Butter und serviere mit Ahornsirup.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 45,
+        "name": "Gemuese-Couscous",
+        "calories": 350,
+        "meal_type": "Mittagessen",
+        "ingredients": "Couscous, Gemüsebrühe, Gemüse (Zucchini, Karotten, Paprika), Olivenöl",
+        "preparation": "Koche den Couscous in Gemüsebrühe und mische ihn mit dem gebratenen Gemüse und Olivenöl.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 46,
+        "name": "Linsensuppe",
+        "calories": 300,
+        "meal_type": "Mittagessen",
+        "ingredients": "Linsen, Karotten, Sellerie, Zwiebeln, Gemüsebrühe",
+        "preparation": "Koche die Linsen mit den geschnittenen Gemüsen in Gemüsebrühe, bis alles gar ist.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 47,
+        "name": "Thunfischsalat",
+        "calories": 400,
+        "meal_type": "Mittagessen",
+        "ingredients": "Thunfisch, Salat, Tomaten, Oliven, Eier, Dressing",
+        "preparation": "Mische den Thunfisch mit dem geschnittenen Gemüse, den Eiern und dem Dressing.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 48,
+        "name": "Gebackener Lachs mit Gemuese",
+        "calories": 450,
+        "meal_type": "Abendessen",
+        "ingredients": "Lachsfilet, Gemüse (Brokkoli, Karotten, Zucchini), Olivenöl, Zitrone, Gewürze",
+        "preparation": "Mariniere den Lachs mit Olivenöl, Zitrone und Gewürzen, backe ihn im Ofen und serviere mit dem gedünsteten Gemüse.",
+        "vegetarian_vegan": "none"
+    },
+    {
+        "id": 49,
+        "name": "Muesli mit Joghurt und Fruechten",
+        "calories": 350,
+        "meal_type": "Fruehstueck",
+        "ingredients": "Müsli, Joghurt, Früchte (Bananen, Äpfel, Beeren), Honig",
+        "preparation": "Mische das Müsli mit Joghurt, den geschnittenen Früchten und Honig.",
+        "vegetarian_vegan": "vegetarisch"
+    },
+    {
+        "id": 50,
+        "name": "Gemuesepfanne mit Tofu",
+        "calories": 400,
+        "meal_type": "Mittagessen",
+        "ingredients": "Tofu, Gemüse (Paprika, Zucchini, Pilze), Sojasauce, Ingwer, Knoblauch",
+        "preparation": "Brate den Tofu mit dem geschnittenen Gemüse, der Sojasauce, dem Ingwer und dem Knoblauch an.",
+        "vegetarian_vegan": "vegetarisch"
+    }
+]
